@@ -1,0 +1,41 @@
+{
+  "pricing": [
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": "$12/month",
+      "description": "Perfect for individuals starting out.",
+      "features": [
+        "1 User",
+        "Basic Support",
+        "5 Projects",
+        "Community Access"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "price": "$29/month",
+      "description": "Ideal for small teams and growing users.",
+      "features": [
+        "5 Users",
+        "Priority Support",
+        "20 Projects",
+        "Analytics Dashboard"
+      ],
+      "isPopular": true
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "price": "$59/month",
+      "description": "Best for professionals and large teams.",
+      "features": [
+        "Unlimited Users",
+        "24/7 Support",
+        "Unlimited Projects",
+        "Advanced Analytics"
+      ]
+    }
+  ]
+}
